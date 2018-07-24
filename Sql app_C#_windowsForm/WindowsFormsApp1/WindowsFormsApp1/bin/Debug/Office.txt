@@ -1,0 +1,7 @@
+Evans,428
+Nelson,319
+Lopez,454
+Clark,318
+Green,450
+Parker,462
+Rosten,424
