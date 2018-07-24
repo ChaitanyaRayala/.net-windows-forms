@@ -1,0 +1,10 @@
+C:\Users\z1805\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\z1805\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\z1805\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\z1805\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\z1805\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\z1805\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\z1805\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\z1805\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\z1805\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\z1805\source\repos\Minesweeper\Minesweeper\obj\Debug\MemoryGame.Form1.resources
